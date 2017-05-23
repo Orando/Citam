@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Citam Church Kisumu</string>
+    <!--Navigation Drawer labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_bible">Bible</string>
+    <string name="nav_sermon">Sermon</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About Citam Church</string>
+    <string name="navigation_drawer_open">navigation drawer Open</string>
+    <string name="navigation_drawer_closed">navigation drawer Closed</string>
+    <string name="verse"> I sought the Lord and He had me and delivered me from all my fears.</string>
+<string name="verse_no">Psalms 34:4</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>CITAM CHURCH KISUMU</item>
+        <item>Bible</item>
+        <item>Sermon</item>
+        <item>Gallerry</item>
+        <item>Settings</item>
+    </string-array>
+</resources>
